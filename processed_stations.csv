@@ -1,0 +1,259 @@
+from_code,from_name,to_code,to_name,line,time,adjusted_time
+NS1,Jurong East Mrt Station,NS2,Bukit Batok Mrt Station,NS,3,3
+NS2,Bukit Batok Mrt Station,NS3,Bukit Gombak Mrt Station,NS,3,3
+NS3,Bukit Gombak Mrt Station,NS4,Choa Chu Kang Mrt Station,NS,3,3
+NS4,Choa Chu Kang Mrt Station,NS5,Yew Tee Mrt Station,NS,3,3
+NS5,Yew Tee Mrt Station,NS7,Kranji Mrt Station,NS,4,4
+NS7,Kranji Mrt Station,NS8,Marsiling Mrt Station,NS,3,3
+NS8,Marsiling Mrt Station,NS9,Woodlands Mrt Station,NS,3,3
+NS9,Woodlands Mrt Station,NS10,Admiralty Mrt Station,NS,3,3
+NS10,Admiralty Mrt Station,NS11,Sembawang Mrt Station,NS,3,3
+NS11,Sembawang Mrt Station,NS12,Canberra Mrt Station,NS,3,3
+NS12,Canberra Mrt Station,NS13,Yishun Mrt Station,NS,3,3
+NS13,Yishun Mrt Station,NS14,Khatib Mrt Station,NS,3,3
+NS14,Khatib Mrt Station,NS15,Yio Chu Kang Mrt Station,NS,3,3
+NS15,Yio Chu Kang Mrt Station,NS16,Ang Mo Kio Mrt Station,NS,3,3
+NS16,Ang Mo Kio Mrt Station,NS17,Bishan Mrt Station,NS,3,3
+NS17,Bishan Mrt Station,NS18,Braddell Mrt Station,NS,3,3
+NS18,Braddell Mrt Station,NS19,Toa Payoh Mrt Station,NS,3,3
+NS19,Toa Payoh Mrt Station,NS20,Novena Mrt Station,NS,3,3
+NS20,Novena Mrt Station,NS21,Newton Mrt Station,NS,3,3
+NS21,Newton Mrt Station,NS22,Orchard Mrt Station,NS,3,3
+NS22,Orchard Mrt Station,NS23,Somerset Mrt Station,NS,3,3
+NS23,Somerset Mrt Station,NS24,Dhoby Ghaut Mrt Station,NS,3,3
+NS24,Dhoby Ghaut Mrt Station,NS25,City Hall Mrt Station,NS,3,3
+NS25,City Hall Mrt Station,NS26,Raffles Place Mrt Station,NS,3,3
+NS26,Raffles Place Mrt Station,NS27,Marina Bay Mrt Station,NS,3,3
+NS27,Marina Bay Mrt Station,NS28,Marina South Pier Mrt Station,NS,3,3
+EW1,Pasir Ris Mrt Station,EW2,Tampines Mrt Station,EW,3,3
+EW2,Tampines Mrt Station,EW3,Simei Mrt Station,EW,3,3
+EW3,Simei Mrt Station,EW4,Tanah Merah Mrt Station,EW,3,3
+EW4,Tanah Merah Mrt Station,EW5,Bedok Mrt Station,EW,3,3
+EW5,Bedok Mrt Station,EW6,Kembangan Mrt Station,EW,3,3
+EW6,Kembangan Mrt Station,EW7,Eunos Mrt Station,EW,3,3
+EW7,Eunos Mrt Station,EW8,Paya Lebar Mrt Station,EW,3,3
+EW8,Paya Lebar Mrt Station,EW9,Aljunied Mrt Station,EW,3,3
+EW9,Aljunied Mrt Station,EW10,Kallang Mrt Station,EW,3,3
+EW10,Kallang Mrt Station,EW11,Lavender Mrt Station,EW,3,3
+EW11,Lavender Mrt Station,EW12,Bugis Mrt Station,EW,3,3
+EW12,Bugis Mrt Station,EW13,City Hall Mrt Station,EW,3,3
+EW13,City Hall Mrt Station,EW14,Raffles Place Mrt Station,EW,3,3
+EW14,Raffles Place Mrt Station,EW15,Tanjong Pagar Mrt Station,EW,3,3
+EW15,Tanjong Pagar Mrt Station,EW16,Outram Park Mrt Station,EW,3,3
+EW16,Outram Park Mrt Station,EW17,Tiong Bahru Mrt Station,EW,3,3
+EW17,Tiong Bahru Mrt Station,EW18,Redhill Mrt Station,EW,3,3
+EW18,Redhill Mrt Station,EW19,Queenstown Mrt Station,EW,3,3
+EW19,Queenstown Mrt Station,EW20,Commonwealth Mrt Station,EW,3,3
+EW20,Commonwealth Mrt Station,EW21,Buona Vista Mrt Station,EW,3,3
+EW21,Buona Vista Mrt Station,EW22,Dover Mrt Station,EW,3,3
+EW22,Dover Mrt Station,EW23,Clementi Mrt Station,EW,3,3
+EW23,Clementi Mrt Station,EW24,Jurong East Mrt Station,EW,3,3
+EW24,Jurong East Mrt Station,EW25,Chinese Garden Mrt Station,EW,3,3
+EW25,Chinese Garden Mrt Station,EW26,Lakeside Mrt Station,EW,3,3
+EW26,Lakeside Mrt Station,EW27,Boon Lay Mrt Station,EW,3,3
+EW27,Boon Lay Mrt Station,EW28,Pioneer Mrt Station,EW,3,3
+EW28,Pioneer Mrt Station,EW29,Joo Koon Mrt Station,EW,3,3
+EW29,Joo Koon Mrt Station,EW30,Gul Circle Mrt Station,EW,3,3
+EW30,Gul Circle Mrt Station,EW31,Tuas Crescent Mrt Station,EW,3,3
+EW31,Tuas Crescent Mrt Station,EW32,Tuas West Road Mrt Station,EW,3,3
+EW32,Tuas West Road Mrt Station,EW33,Tuas Link Mrt Station,EW,3,3
+CC1,Dhoby Ghaut Mrt Station,CC2,Bras Basah Mrt Station,CC,3,3
+CC2,Bras Basah Mrt Station,CC3,Esplanade Mrt Station,CC,3,3
+CC3,Esplanade Mrt Station,CC4,Promenade Mrt Station,CC,3,3
+CC4,Promenade Mrt Station,CC5,Nicoll Highway Mrt Station,CC,3,3
+CC5,Nicoll Highway Mrt Station,CC6,Stadium Mrt Station,CC,3,3
+CC6,Stadium Mrt Station,CC7,Mountbatten Mrt Station,CC,3,3
+CC7,Mountbatten Mrt Station,CC8,Dakota Mrt Station,CC,3,3
+CC8,Dakota Mrt Station,CC9,Paya Lebar Mrt Station,CC,3,3
+CC9,Paya Lebar Mrt Station,CC10,Macpherson Mrt Station,CC,3,3
+CC10,Macpherson Mrt Station,CC11,Tai Seng Mrt Station,CC,3,3
+CC11,Tai Seng Mrt Station,CC12,Bartley Mrt Station,CC,3,3
+CC12,Bartley Mrt Station,CC13,Serangoon Mrt Station,CC,3,3
+CC13,Serangoon Mrt Station,CC14,Lorong Chuan Mrt Station,CC,3,3
+CC14,Lorong Chuan Mrt Station,CC15,Bishan Mrt Station,CC,3,3
+CC15,Bishan Mrt Station,CC16,Marymount Mrt Station,CC,3,3
+CC16,Marymount Mrt Station,CC17,Caldecott Mrt Station,CC,3,3
+CC17,Caldecott Mrt Station,CC18,Bukit Brown Mrt Station,CC,3,3
+CC18,Bukit Brown Mrt Station,CC19,Botanic Gardens Mrt Station,CC,3,3
+CC19,Botanic Gardens Mrt Station,CC20,Farrer Road Mrt Station,CC,3,3
+CC20,Farrer Road Mrt Station,CC21,Holland Village Mrt Station,CC,3,3
+CC21,Holland Village Mrt Station,CC22,Buona Vista Mrt Station,CC,3,3
+CC22,Buona Vista Mrt Station,CC23,One-North Mrt Station,CC,3,3
+CC23,One-North Mrt Station,CC24,Kent Ridge Mrt Station,CC,3,3
+CC24,Kent Ridge Mrt Station,CC25,Haw Par Villa Mrt Station,CC,3,3
+CC25,Haw Par Villa Mrt Station,CC26,Pasir Panjang Mrt Station,CC,3,3
+CC26,Pasir Panjang Mrt Station,CC27,Labrador Park Mrt Station,CC,3,3
+CC27,Labrador Park Mrt Station,CC28,Telok Blangah Mrt Station,CC,3,3
+CC28,Telok Blangah Mrt Station,CC29,Harbourfront Mrt Station,CC,3,3
+CE1,Bayfront Mrt Station,CE2,Marina Bay Mrt Station,CE,3,3
+DT1,Bukit Panjang Mrt Station,DT2,Cashew Mrt Station,DT,3,3
+DT2,Cashew Mrt Station,DT3,Hillview Mrt Station,DT,3,3
+DT3,Hillview Mrt Station,DT4,Hume Mrt Station,DT,3,3
+DT4,Hume Mrt Station,DT5,Beauty World Mrt Station,DT,3,3
+DT5,Beauty World Mrt Station,DT6,King Albert Park Mrt Station,DT,3,3
+DT6,King Albert Park Mrt Station,DT7,Sixth Avenue Mrt Station,DT,3,3
+DT7,Sixth Avenue Mrt Station,DT8,Tan Kah Kee Mrt Station,DT,3,3
+DT8,Tan Kah Kee Mrt Station,DT9,Botanic Gardens Mrt Station,DT,3,3
+DT9,Botanic Gardens Mrt Station,DT10,Stevens Mrt Station,DT,3,3
+DT10,Stevens Mrt Station,DT11,Newton Mrt Station,DT,3,3
+DT11,Newton Mrt Station,DT12,Little India Mrt Station,DT,3,3
+DT12,Little India Mrt Station,DT13,Rochor Mrt Station,DT,3,3
+DT13,Rochor Mrt Station,DT14,Bugis Mrt Station,DT,3,3
+DT14,Bugis Mrt Station,DT15,Promenade Mrt Station,DT,3,3
+DT15,Promenade Mrt Station,DT16,Bayfront Mrt Station,DT,3,3
+DT16,Bayfront Mrt Station,DT17,Downtown Mrt Station,DT,3,3
+DT17,Downtown Mrt Station,DT18,Telok Ayer Mrt Station,DT,3,3
+DT18,Telok Ayer Mrt Station,DT19,Chinatown Mrt Station,DT,3,3
+DT19,Chinatown Mrt Station,DT20,Fort Canning Mrt Station,DT,3,3
+DT20,Fort Canning Mrt Station,DT21,Bencoolen Mrt Station,DT,3,3
+DT21,Bencoolen Mrt Station,DT22,Jalan Besar Mrt Station,DT,3,3
+DT22,Jalan Besar Mrt Station,DT23,Bendemeer Mrt Station,DT,3,3
+DT23,Bendemeer Mrt Station,DT24,Geylang Bahru Mrt Station,DT,3,3
+DT24,Geylang Bahru Mrt Station,DT25,Mattar Mrt Station,DT,3,3
+DT25,Mattar Mrt Station,DT26,Macpherson Mrt Station,DT,3,3
+DT26,Macpherson Mrt Station,DT27,Ubi Mrt Station,DT,3,3
+DT27,Ubi Mrt Station,DT28,Kaki Bukit Mrt Station,DT,3,3
+DT28,Kaki Bukit Mrt Station,DT29,Bedok North Mrt Station,DT,3,3
+DT29,Bedok North Mrt Station,DT30,Bedok Reservoir Mrt Station,DT,3,3
+DT30,Bedok Reservoir Mrt Station,DT31,Tampines West Mrt Station,DT,3,3
+DT31,Tampines West Mrt Station,DT32,Tampines Mrt Station,DT,3,3
+DT32,Tampines Mrt Station,DT33,Tampines East Mrt Station,DT,3,3
+DT33,Tampines East Mrt Station,DT34,Upper Changi Mrt Station,DT,3,3
+DT34,Upper Changi Mrt Station,DT35,Expo Mrt Station,DT,3,3
+NE1,Harbourfront Mrt Station,NE4,Chinatown Mrt Station,NE,5,5
+NE4,Chinatown Mrt Station,NE5,Clarke Quay Mrt Station,NE,3,3
+NE5,Clarke Quay Mrt Station,NE6,Dhoby Ghaut Mrt Station,NE,3,3
+NE6,Dhoby Ghaut Mrt Station,NE7,Little India Mrt Station,NE,3,3
+NE7,Little India Mrt Station,NE8,Farrer Park Mrt Station,NE,3,3
+NE8,Farrer Park Mrt Station,NE9,Boon Keng Mrt Station,NE,3,3
+NE9,Boon Keng Mrt Station,NE10,Potong Pasir Mrt Station,NE,3,3
+NE10,Potong Pasir Mrt Station,NE11,Woodleigh Mrt Station,NE,3,3
+NE11,Woodleigh Mrt Station,NE12,Serangoon Mrt Station,NE,3,3
+NE12,Serangoon Mrt Station,NE13,Kovan Mrt Station,NE,3,3
+NE13,Kovan Mrt Station,NE14,Hougang Mrt Station,NE,3,3
+NE14,Hougang Mrt Station,NE15,Buangkok Mrt Station,NE,3,3
+NE15,Buangkok Mrt Station,NE16,Sengkang Mrt Station,NE,3,3
+NE16,Sengkang Mrt Station,NE17,Punggol Mrt Station,NE,3,3
+TE1,Woodlands North Mrt Station,TE2,Woodlands Mrt Station,TE,3,3
+TE2,Woodlands Mrt Station,TE3,Woodlands South Mrt Station,TE,3,3
+TE3,Woodlands South Mrt Station,TE4,Springleaf Mrt Station,TE,3,3
+TE4,Springleaf Mrt Station,TE5,Lentor Mrt Station,TE,3,3
+TE5,Lentor Mrt Station,TE6,Mayflower Mrt Station,TE,3,3
+TE6,Mayflower Mrt Station,TE7,Bright Hill Mrt Station,TE,3,3
+TE7,Bright Hill Mrt Station,TE8,Upper Thomson Mrt Station,TE,3,3
+TE8,Upper Thomson Mrt Station,TE9,Caldecott Mrt Station,TE,3,3
+TE9,Caldecott Mrt Station,TE11,Stevens Mrt Station,TE,4,4
+TE11,Stevens Mrt Station,TE14,Orchard Mrt Station,TE,5,5
+TE14,Orchard Mrt Station,TE20,Marina Bay Mrt Station,TE,8,8
+CG1,Expo Mrt Station,CG2,Changi Airport Mrt Station,CG,3,3
+CE1,Bayfront Mrt Station,DT16,Bayfront Mrt Station,XFER,5,5
+DT16,Bayfront Mrt Station,CE1,Bayfront Mrt Station,XFER,5,5
+NS17,Bishan Mrt Station,CC15,Bishan Mrt Station,XFER,5,5
+CC15,Bishan Mrt Station,NS17,Bishan Mrt Station,XFER,5,5
+CC19,Botanic Gardens Mrt Station,DT9,Botanic Gardens Mrt Station,XFER,5,5
+DT9,Botanic Gardens Mrt Station,CC19,Botanic Gardens Mrt Station,XFER,5,5
+EW12,Bugis Mrt Station,DT14,Bugis Mrt Station,XFER,5,5
+DT14,Bugis Mrt Station,EW12,Bugis Mrt Station,XFER,5,5
+EW21,Buona Vista Mrt Station,CC22,Buona Vista Mrt Station,XFER,5,5
+CC22,Buona Vista Mrt Station,EW21,Buona Vista Mrt Station,XFER,5,5
+CC17,Caldecott Mrt Station,TE9,Caldecott Mrt Station,XFER,5,5
+TE9,Caldecott Mrt Station,CC17,Caldecott Mrt Station,XFER,5,5
+DT19,Chinatown Mrt Station,NE4,Chinatown Mrt Station,XFER,5,5
+NE4,Chinatown Mrt Station,DT19,Chinatown Mrt Station,XFER,5,5
+NS25,City Hall Mrt Station,EW13,City Hall Mrt Station,XFER,5,5
+EW13,City Hall Mrt Station,NS25,City Hall Mrt Station,XFER,5,5
+NS24,Dhoby Ghaut Mrt Station,CC1,Dhoby Ghaut Mrt Station,XFER,5,5
+CC1,Dhoby Ghaut Mrt Station,NS24,Dhoby Ghaut Mrt Station,XFER,5,5
+NS24,Dhoby Ghaut Mrt Station,NE6,Dhoby Ghaut Mrt Station,XFER,5,5
+NE6,Dhoby Ghaut Mrt Station,NS24,Dhoby Ghaut Mrt Station,XFER,5,5
+CC1,Dhoby Ghaut Mrt Station,NE6,Dhoby Ghaut Mrt Station,XFER,5,5
+NE6,Dhoby Ghaut Mrt Station,CC1,Dhoby Ghaut Mrt Station,XFER,5,5
+NS1,Jurong East Mrt Station,EW24,Jurong East Mrt Station,XFER,5,5
+EW24,Jurong East Mrt Station,NS1,Jurong East Mrt Station,XFER,5,5
+DT12,Little India Mrt Station,NE7,Little India Mrt Station,XFER,5,5
+NE7,Little India Mrt Station,DT12,Little India Mrt Station,XFER,5,5
+CC10,Macpherson Mrt Station,DT26,Macpherson Mrt Station,XFER,5,5
+DT26,Macpherson Mrt Station,CC10,Macpherson Mrt Station,XFER,5,5
+NS21,Newton Mrt Station,DT11,Newton Mrt Station,XFER,5,5
+DT11,Newton Mrt Station,NS21,Newton Mrt Station,XFER,5,5
+NS22,Orchard Mrt Station,TE14,Orchard Mrt Station,XFER,5,5
+TE14,Orchard Mrt Station,NS22,Orchard Mrt Station,XFER,5,5
+EW8,Paya Lebar Mrt Station,CC9,Paya Lebar Mrt Station,XFER,5,5
+CC9,Paya Lebar Mrt Station,EW8,Paya Lebar Mrt Station,XFER,5,5
+CC4,Promenade Mrt Station,DT15,Promenade Mrt Station,XFER,5,5
+DT15,Promenade Mrt Station,CC4,Promenade Mrt Station,XFER,5,5
+NS26,Raffles Place Mrt Station,EW14,Raffles Place Mrt Station,XFER,5,5
+EW14,Raffles Place Mrt Station,NS26,Raffles Place Mrt Station,XFER,5,5
+CC13,Serangoon Mrt Station,NE12,Serangoon Mrt Station,XFER,5,5
+NE12,Serangoon Mrt Station,CC13,Serangoon Mrt Station,XFER,5,5
+DT10,Stevens Mrt Station,TE11,Stevens Mrt Station,XFER,5,5
+TE11,Stevens Mrt Station,DT10,Stevens Mrt Station,XFER,5,5
+EW2,Tampines Mrt Station,DT32,Tampines Mrt Station,XFER,5,5
+DT32,Tampines Mrt Station,EW2,Tampines Mrt Station,XFER,5,5
+NS9,Woodlands Mrt Station,TE2,Woodlands Mrt Station,XFER,5,5
+TE2,Woodlands Mrt Station,NS9,Woodlands Mrt Station,XFER,5,5
+CG2,Changi Airport Mrt Station,CG1,Expo Mrt Station,CG,3,3
+CE1,Bayfront Mrt Station,DT16,Bayfront Mrt Station,XFER,5,5
+DT16,Bayfront Mrt Station,CE1,Bayfront Mrt Station,XFER,5,5
+NS17,Bishan Mrt Station,CC15,Bishan Mrt Station,XFER,5,5
+CC15,Bishan Mrt Station,NS17,Bishan Mrt Station,XFER,5,5
+CC19,Botanic Gardens Mrt Station,DT9,Botanic Gardens Mrt Station,XFER,5,5
+DT9,Botanic Gardens Mrt Station,CC19,Botanic Gardens Mrt Station,XFER,5,5
+EW12,Bugis Mrt Station,DT14,Bugis Mrt Station,XFER,5,5
+DT14,Bugis Mrt Station,EW12,Bugis Mrt Station,XFER,5,5
+EW21,Buona Vista Mrt Station,CC22,Buona Vista Mrt Station,XFER,5,5
+CC22,Buona Vista Mrt Station,EW21,Buona Vista Mrt Station,XFER,5,5
+CC17,Caldecott Mrt Station,TE9,Caldecott Mrt Station,XFER,5,5
+TE9,Caldecott Mrt Station,CC17,Caldecott Mrt Station,XFER,5,5
+DT19,Chinatown Mrt Station,NE4,Chinatown Mrt Station,XFER,5,5
+NE4,Chinatown Mrt Station,DT19,Chinatown Mrt Station,XFER,5,5
+NS25,City Hall Mrt Station,EW13,City Hall Mrt Station,XFER,5,5
+EW13,City Hall Mrt Station,NS25,City Hall Mrt Station,XFER,5,5
+NS24,Dhoby Ghaut Mrt Station,CC1,Dhoby Ghaut Mrt Station,XFER,5,5
+CC1,Dhoby Ghaut Mrt Station,NS24,Dhoby Ghaut Mrt Station,XFER,5,5
+NS24,Dhoby Ghaut Mrt Station,NE6,Dhoby Ghaut Mrt Station,XFER,5,5
+NE6,Dhoby Ghaut Mrt Station,NS24,Dhoby Ghaut Mrt Station,XFER,5,5
+CC1,Dhoby Ghaut Mrt Station,NE6,Dhoby Ghaut Mrt Station,XFER,5,5
+NE6,Dhoby Ghaut Mrt Station,CC1,Dhoby Ghaut Mrt Station,XFER,5,5
+NS1,Jurong East Mrt Station,EW24,Jurong East Mrt Station,XFER,5,5
+EW24,Jurong East Mrt Station,NS1,Jurong East Mrt Station,XFER,5,5
+DT12,Little India Mrt Station,NE7,Little India Mrt Station,XFER,5,5
+NE7,Little India Mrt Station,DT12,Little India Mrt Station,XFER,5,5
+CC10,Macpherson Mrt Station,DT26,Macpherson Mrt Station,XFER,5,5
+DT26,Macpherson Mrt Station,CC10,Macpherson Mrt Station,XFER,5,5
+NS21,Newton Mrt Station,DT11,Newton Mrt Station,XFER,5,5
+DT11,Newton Mrt Station,NS21,Newton Mrt Station,XFER,5,5
+NS22,Orchard Mrt Station,TE14,Orchard Mrt Station,XFER,5,5
+TE14,Orchard Mrt Station,NS22,Orchard Mrt Station,XFER,5,5
+EW8,Paya Lebar Mrt Station,CC9,Paya Lebar Mrt Station,XFER,5,5
+CC9,Paya Lebar Mrt Station,EW8,Paya Lebar Mrt Station,XFER,5,5
+CC4,Promenade Mrt Station,DT15,Promenade Mrt Station,XFER,5,5
+DT15,Promenade Mrt Station,CC4,Promenade Mrt Station,XFER,5,5
+NS26,Raffles Place Mrt Station,EW14,Raffles Place Mrt Station,XFER,5,5
+EW14,Raffles Place Mrt Station,NS26,Raffles Place Mrt Station,XFER,5,5
+CC13,Serangoon Mrt Station,NE12,Serangoon Mrt Station,XFER,5,5
+NE12,Serangoon Mrt Station,CC13,Serangoon Mrt Station,XFER,5,5
+DT10,Stevens Mrt Station,TE11,Stevens Mrt Station,XFER,5,5
+TE11,Stevens Mrt Station,DT10,Stevens Mrt Station,XFER,5,5
+EW2,Tampines Mrt Station,DT32,Tampines Mrt Station,XFER,5,5
+DT32,Tampines Mrt Station,EW2,Tampines Mrt Station,XFER,5,5
+NS9,Woodlands Mrt Station,TE2,Woodlands Mrt Station,XFER,5,5
+TE2,Woodlands Mrt Station,NS9,Woodlands Mrt Station,XFER,5,5
+CG1,Expo Mrt Station,DT35,Expo Mrt Station,DT,2,2
+DT35,Expo Mrt Station,CG1,Expo Mrt Station,CG,2,2
+NE11,Serangoon Mrt Station,NE10,Potong Pasir Mrt Station,NE,3,3
+NE11,Serangoon Mrt Station,NE12,Woodleigh Mrt Station,NE,3,3
+TE12,Napier Mrt Station,TE11,Orchard Boulevard Mrt Station,TE,3,3
+TE12,Napier Mrt Station,TE13,Orchard Mrt Station,TE,3,3
+NE10,Potong Pasir Mrt Station,NE11,Serangoon Mrt Station,NE,3,3
+NE12,Woodleigh Mrt Station,NE11,Serangoon Mrt Station,NE,3,3
+TE11,Orchard Boulevard Mrt Station,TE12,Napier Mrt Station,TE,3,3
+TE13,Orchard Mrt Station,TE12,Napier Mrt Station,TE,3,3
+NE11,Serangoon Mrt Station,NE10,Potong Pasir Mrt Station,NE,3,3
+NE11,Serangoon Mrt Station,NE12,Woodleigh Mrt Station,NE,3,3
+NE10,Potong Pasir Mrt Station,NE11,Serangoon Mrt Station,NE,3,3
+NE12,Woodleigh Mrt Station,NE11,Serangoon Mrt Station,NE,3,3
+TE12,Napier Mrt Station,TE11,Orchard Boulevard Mrt Station,TE,3,3
+TE12,Napier Mrt Station,TE13,Orchard Mrt Station,TE,3,3
+TE11,Orchard Boulevard Mrt Station,TE12,Napier Mrt Station,TE,3,3
+TE13,Orchard Mrt Station,TE12,Napier Mrt Station,TE,3,3
